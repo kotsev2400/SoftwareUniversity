@@ -1,0 +1,2 @@
+
+C# is a language, .NET is an application framework.

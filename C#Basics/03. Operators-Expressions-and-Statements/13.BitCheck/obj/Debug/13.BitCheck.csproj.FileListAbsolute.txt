@@ -1,0 +1,5 @@
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\13.BitCheck\bin\Debug\13.BitCheck.exe.config
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\13.BitCheck\bin\Debug\13.BitCheck.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\13.BitCheck\bin\Debug\13.BitCheck.pdb
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\13.BitCheck\obj\Debug\13.BitCheck.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\13.BitCheck\obj\Debug\13.BitCheck.pdb

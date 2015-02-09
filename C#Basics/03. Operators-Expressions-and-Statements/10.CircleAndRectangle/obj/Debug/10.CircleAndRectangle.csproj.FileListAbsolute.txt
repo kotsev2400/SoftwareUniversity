@@ -1,0 +1,5 @@
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\10.CircleAndRectangle\bin\Debug\10.CircleAndRectangle.exe.config
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\10.CircleAndRectangle\bin\Debug\10.CircleAndRectangle.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\10.CircleAndRectangle\bin\Debug\10.CircleAndRectangle.pdb
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\10.CircleAndRectangle\obj\Debug\10.CircleAndRectangle.pdb

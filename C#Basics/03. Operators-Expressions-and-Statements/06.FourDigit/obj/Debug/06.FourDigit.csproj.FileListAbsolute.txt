@@ -1,0 +1,5 @@
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\06.FourDigit\bin\Debug\06.FourDigit.exe.config
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\06.FourDigit\bin\Debug\06.FourDigit.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\06.FourDigit\bin\Debug\06.FourDigit.pdb
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\06.FourDigit\obj\Debug\06.FourDigit.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\06.FourDigit\obj\Debug\06.FourDigit.pdb
