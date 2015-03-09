@@ -1,0 +1,133 @@
+body{
+    background-color: #00923e;
+    font-family: sans-serif;
+}
+
+#container {
+    width: 800px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+table{
+    width: 100%;
+}
+
+table, th, td{
+    border: 1.5px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #f8c711;
+    height: 40px;
+}
+
+td{
+    font-size: 13px;
+    height: 40px;
+    text-align: center;
+}
+
+tr:nth-child(2n + 1) {
+    background-color: #ffffff;
+}
+
+tr:nth-child(2n) {
+    background-color: #c8c8c8;
+}
+
+.select-result{
+    background-color: #ffffff;
+    color: green;
+    width: 35px;
+    height: 35px;
+}
+
+.select-result:disabled{
+    background-color: #c8c8c8;
+    color: red;
+}
+
+.bet-button {
+    color: #ffffff;font-size: 10px;
+    background-color: green;
+    border-radius: 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.bet-button:disabled {
+    background-color: red;
+}
+
+.home{
+    text-align: right;
+    padding-right: 5px;
+}
+
+.away{
+    text-align: left;
+    padding-left: 5px;
+}
+
+#brazil:after {
+    content: url("Flags/Brazil-flag.png");
+    padding-left: 2px;
+    float: right;
+}
+
+#spain:after {
+    content: url("Flags/Spain-flag.png");
+    padding-left: 2px;
+    float: right;
+}
+
+#italy:after {
+    content: url("Flags/Italy-flag.png");
+    padding-left: 2px;
+    float: right;
+}
+
+#argentina:after {
+    content: url("Flags/Argentina-flag.png");
+    padding-left: 2px;
+    float: right;
+}
+
+#germany:after {
+    content: url("Flags/Germany-flag.png");
+    padding-left: 2px;
+    float: right;
+}
+
+#mexico:before {
+    content: url("Flags/Mexico-flag.png");
+    padding-right: 2px;
+    float: left;
+}
+
+#netherlands:before {
+    content: url("Flags/Netherlands-flag.png");
+    padding-right: 2px;
+    float: left;
+}
+
+#england:before {
+    content: url("Flags/England-flag.png");
+    padding-right: 2px;
+    float: left;
+}
+
+#bosnia:before {
+    content: url("Flags/Bosnia-flag.png");
+    padding-right: 2px;
+    float: left;
+}
+
+#portugal:before {
+    content: url("Flags/Portugal-flag.png");
+    padding-right: 2px;
+    float: left;
+}
+

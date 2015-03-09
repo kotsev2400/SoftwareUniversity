@@ -1,0 +1,57 @@
+body {
+    font-family: Tahoma, sans-serif;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
+
+#wrapper {
+    margin: 1em auto;
+    background-color: pink;
+    width: 600px;
+    height: 420px;
+}
+
+h1 {
+    text-align: center;
+}
+
+fieldset {
+    width: 260px;
+    float: left;
+    border: none;
+}
+    fieldset div {
+        margin-top: 1em;
+    }
+    fieldset #departure {
+        margin-top: 2.3em;
+    }
+    fieldset .small-fields > input {
+        width: 78px;
+    }
+    fieldset .small-fields > label {
+        margin-right: 3.5em;
+    }
+    fieldset .time-fields > input {
+        width: 120px;
+    }
+    fieldset input {
+        width: 250px;
+        height: 25px;
+    }
+    fieldset #check-box {
+        margin-top: 0em;
+    }
+    fieldset #check-box input {
+        width: 15px;
+        height: 15px;
+    }
+    fieldset button {
+        font-size: 20px;
+        width: 254px;
+        height: 35px;
+        margin-top: 1em;
+        margin-right: 1em;
+        float: right;
+    }

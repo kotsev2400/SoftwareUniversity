@@ -1,0 +1,99 @@
+html, body, header, ul, li, div, a, input, button{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.5em;
+    font-family: "Tahoma";
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 1200px;
+	height: 110px;
+	background-color: #234465;
+}
+
+header {
+	width: 1200px;
+}
+	header > div {
+		float: left;
+	}
+
+nav {
+	float: right;
+}
+	ul {
+		list-style: none;
+	}
+	ul > li {
+		padding: 5px;
+		display: inline-block;
+		margin-right: 20px; 
+	}
+	ul > li:hover {
+		background-color: lightblue;
+		border-radius: 5px;
+	}
+	ul > li > a {
+		font-weight: bold;
+		color: #ffffff;
+		text-decoration: none;
+	}
+		ul > li > ul {
+			padding-top: 10px;
+			position: absolute;
+			display: none;
+		}
+		ul > li:hover ul {
+		display: block;
+		}
+		ul > li > ul > li {
+			padding: 5px;
+			display: block;
+			background-color: #234465;
+			width: 180px;
+		}
+		ul > li > ul > li:hover {
+			background-color: lightblue;
+		}
+
+.search {
+	margin-top: 20px;
+	float: right;
+	margin-right: 20px;
+}
+	.search input {
+		padding-left: 5px;
+		border-radius: 5px;
+		width: 200px;
+		height: 25px;
+	}
+	.serach form img {
+		float: right;
+	}
+
+.user {
+	float: right;
+	margin-top: 20px;
+}
+	.user a {
+		text-decoration: none;
+		color: #ffffff;
+		padding: 5px;
+	}
+	.user a:hover {
+		background-color: lightblue;
+		border-radius: 5px;
+	}
+
+.notificanions {
+	margin-top: 15px;
+	float: right;
+}
