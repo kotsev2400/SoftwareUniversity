@@ -1,6 +1,0 @@
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\07.SumNumbers\bin\Debug\07.SumNumbers.exe.config
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\07.SumNumbers\bin\Debug\07.SumNumbers.exe
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\07.SumNumbers\bin\Debug\07.SumNumbers.pdb
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\07.SumNumbers\obj\Debug\07.SumNumbers.csprojResolveAssemblyReference.cache
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\07.SumNumbers\obj\Debug\07.SumNumbers.exe
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\07.SumNumbers\obj\Debug\07.SumNumbers.pdb

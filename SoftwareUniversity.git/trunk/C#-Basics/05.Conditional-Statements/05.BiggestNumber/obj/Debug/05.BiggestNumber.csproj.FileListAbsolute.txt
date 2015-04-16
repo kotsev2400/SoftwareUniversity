@@ -1,6 +1,0 @@
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\05.BiggestNumber\bin\Debug\05.BiggestNumber.exe.config
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\05.BiggestNumber\bin\Debug\05.BiggestNumber.exe
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\05.BiggestNumber\bin\Debug\05.BiggestNumber.pdb
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\05.BiggestNumber\obj\Debug\05.BiggestNumber.csprojResolveAssemblyReference.cache
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\05.BiggestNumber\obj\Debug\05.BiggestNumber.exe
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\05.BiggestNumber\obj\Debug\05.BiggestNumber.pdb

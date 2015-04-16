@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\02.PrintInfo\bin\Debug\02.PrintInfo.exe.config
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\02.PrintInfo\bin\Debug\02.PrintInfo.exe
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\02.PrintInfo\bin\Debug\02.PrintInfo.pdb
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\02.PrintInfo\obj\Debug\02.PrintInfo.exe
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\02.PrintInfo\obj\Debug\02.PrintInfo.pdb

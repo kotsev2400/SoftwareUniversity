@@ -1,6 +1,0 @@
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\08.CurrentDate\bin\Debug\08.CurrentDate.exe.config
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\08.CurrentDate\bin\Debug\08.CurrentDate.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\08.CurrentDate\bin\Debug\08.CurrentDate.pdb
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\08.CurrentDate\obj\Debug\08.CurrentDate.csprojResolveAssemblyReference.cache
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\08.CurrentDate\obj\Debug\08.CurrentDate.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\08.CurrentDate\obj\Debug\08.CurrentDate.pdb

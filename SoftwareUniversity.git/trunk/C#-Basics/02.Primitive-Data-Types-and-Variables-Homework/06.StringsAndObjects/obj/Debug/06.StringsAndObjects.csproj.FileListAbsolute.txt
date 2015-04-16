@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\02.Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe.config
-D:\Programming\Projects\Visual Studio\02.Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.exe
-D:\Programming\Projects\Visual Studio\02.Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\bin\Debug\06.StringsAndObjects.pdb
-D:\Programming\Projects\Visual Studio\02.Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.exe
-D:\Programming\Projects\Visual Studio\02.Primitive-Data-Types-and-Variables-Homework\06.StringsAndObjects\obj\Debug\06.StringsAndObjects.pdb

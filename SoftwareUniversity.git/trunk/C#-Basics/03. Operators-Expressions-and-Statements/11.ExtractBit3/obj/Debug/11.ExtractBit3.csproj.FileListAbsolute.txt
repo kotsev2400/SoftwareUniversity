@@ -1,6 +1,0 @@
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe.config
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\11.ExtractBit3\bin\Debug\11.ExtractBit3.exe
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\11.ExtractBit3\bin\Debug\11.ExtractBit3.pdb
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\11.ExtractBit3\obj\Debug\11.ExtractBit3.csprojResolveAssemblyReference.cache
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\11.ExtractBit3\obj\Debug\11.ExtractBit3.exe
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\11.ExtractBit3\obj\Debug\11.ExtractBit3.pdb

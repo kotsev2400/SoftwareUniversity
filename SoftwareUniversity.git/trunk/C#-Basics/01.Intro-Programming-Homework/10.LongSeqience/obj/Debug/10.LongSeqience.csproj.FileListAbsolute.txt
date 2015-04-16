@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\10.LongSeqience\bin\Debug\10.LongSeqience.exe.config
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\10.LongSeqience\bin\Debug\10.LongSeqience.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\10.LongSeqience\bin\Debug\10.LongSeqience.pdb
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\10.LongSeqience\obj\Debug\10.LongSeqience.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\10.LongSeqience\obj\Debug\10.LongSeqience.pdb

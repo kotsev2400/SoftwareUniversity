@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.exe.config
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.exe
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.pdb
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\09.PlayWithTypes\obj\Debug\09.PlayWithTypes.exe
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\09.PlayWithTypes\obj\Debug\09.PlayWithTypes.pdb
