@@ -1,0 +1,5 @@
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\08.NumbersToN\bin\Debug\08.NumbersToN.exe.config
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\08.NumbersToN\bin\Debug\08.NumbersToN.exe
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\08.NumbersToN\bin\Debug\08.NumbersToN.pdb
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\08.NumbersToN\obj\Debug\08.NumbersToN.exe
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\08.NumbersToN\obj\Debug\08.NumbersToN.pdb

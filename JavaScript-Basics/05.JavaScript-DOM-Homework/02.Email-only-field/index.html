@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Valide Email</title>
+</head>
+<body>
+	<div id="wrapper" style="width: 173px; margin: 3em auto;">
+			<input type="text" name="email" id="email">
+			<div id="email-div" style="height: 20px;"></div>
+			<button type="submit" value="submit" onclick="return valideEmail()">Valide</button>
+	</div>
+	<script type="text/javascript">
+	function valideEmail () {
+		var reg = /@softuni.bg/;
+		var email = document.getElementById("email").value;
+		document.getElementById("email-div").innerHTML = email;
+		if (email.match(reg)) {
+			document.getElementById("email-div").style.backgroundColor = 'lightgreen';
+		} else {
+			document.getElementById("email-div").style.backgroundColor = 'red';
+		}
+	}
+	</script>
+</body>
+</html>

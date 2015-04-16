@@ -1,0 +1,45 @@
+fieldset, input, label {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	background-color: pink;
+	width: 300px;
+	margin: 0 auto;
+}
+
+h2 {
+	width: 90%;
+	margin: 0 auto;
+}
+
+form {
+	width: 80%;
+	margin: 1em auto;
+
+}
+
+fieldset {
+	border:none;
+}
+
+input[type="text"] {
+	width: 90%;
+}
+
+span {
+	color: red;
+}
+
+button {
+	margin-left: 5px;
+}
+
+#outter {
+	height: 200px;
+}
+
+#firm-fields {
+	display: none;
+}
