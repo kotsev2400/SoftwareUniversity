@@ -1,0 +1,5 @@
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\02.GraqvitationOnMoon\bin\Debug\02.GraqvitationOnMoon.exe.config
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\02.GraqvitationOnMoon\bin\Debug\02.GraqvitationOnMoon.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\02.GraqvitationOnMoon\bin\Debug\02.GraqvitationOnMoon.pdb
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\02.GraqvitationOnMoon\obj\Debug\02.GraqvitationOnMoon.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\02.GraqvitationOnMoon\obj\Debug\02.GraqvitationOnMoon.pdb

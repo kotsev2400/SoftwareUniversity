@@ -1,0 +1,6 @@
+D:\Programming\Projects\Visual Studio\06.Loops\10.OddAndEven\bin\Debug\10.OddAndEven.exe.config
+D:\Programming\Projects\Visual Studio\06.Loops\10.OddAndEven\bin\Debug\10.OddAndEven.exe
+D:\Programming\Projects\Visual Studio\06.Loops\10.OddAndEven\bin\Debug\10.OddAndEven.pdb
+D:\Programming\Projects\Visual Studio\06.Loops\10.OddAndEven\obj\Debug\10.OddAndEven.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Visual Studio\06.Loops\10.OddAndEven\obj\Debug\10.OddAndEven.exe
+D:\Programming\Projects\Visual Studio\06.Loops\10.OddAndEven\obj\Debug\10.OddAndEven.pdb

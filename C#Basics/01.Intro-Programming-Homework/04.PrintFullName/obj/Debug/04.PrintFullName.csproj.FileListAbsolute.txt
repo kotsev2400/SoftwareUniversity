@@ -1,0 +1,5 @@
+D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\04.PrintFullName\bin\Debug\04.PrintFullName.exe.config
+D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\04.PrintFullName\bin\Debug\04.PrintFullName.exe
+D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\04.PrintFullName\bin\Debug\04.PrintFullName.pdb
+D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\04.PrintFullName\obj\Debug\04.PrintFullName.exe
+D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\04.PrintFullName\obj\Debug\04.PrintFullName.pdb

@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 1200px;
+    height: 658px;
+    color: #ffffff;
+    background-color: #3b5997;
+    padding-left: 2em;
+    padding-right: 2em;
+    text-align: center;
+
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: 90px;
+}
+h1 span {
+    font-size: 20px;
+}
+h2 {
+    margin: 0;
+    font-size: 40px;
+}
+h3 {
+    margin: 0;
+}
+main {
+    float: left;
+    margin-left: 14em;
+}
+
+fieldset {
+    margin-top: 2em;
+    float: left;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    height: 250px;
+}
+    #sex-div {
+        margin-left: -0.5em;
+        float: left;
+        display: inline;
+    }
+    #sex-div label {
+        font-size: 15px;
+    }
+    #sex-div input {
+        width: 15px;
+        margin-top: -0.5em;
+        margin-left: 1em;
+    }
+    fieldset legend {
+        font-weight: bold;
+    }
+    fieldset input {
+        background-color: #ffffff;
+        float: left;
+        width: 130px;
+        border: none;
+        border-radius: 5px;
+        height: 28px;
+        margin-bottom: 1em;
+        margin-right: 1em;
+    }
+    fieldset .small {
+        width: 60px;
+    }
+    fieldset select {
+        background-color: #ffffff;
+        float: left;
+        width: 130px;
+        border: none;
+        border-radius: 5px;
+        height: 28px;
+        margin-bottom: 1em;
+        margin-right: 1em;
+    }
+    fieldset label{
+        font-weight: bold;
+        float: left;
+    }
+    fieldset div {
+        float: left;
+        display: inline-block;
+    }
+    fieldset textarea {
+        border-radius: 5px;
+        width: 420px;
+        height: 60px;
+    }
+
+form {
+    float: left;
+}
+    form button {
+        border: none;
+        border-radius: 10px;
+        color: #3b5997;
+        background-color: #dcdcdc;
+        height: 55px;
+        margin-top: 1.5em;
+        margin-right: 2em;
+        font-size: 20px;
+    }
+    form button:hover {
+        background-color: #ffffff;
+    }
+    #birthday {
+        width: 200px;
+    }
+
+#none-important {
+    margin-right: 2em;
+    float: left;
+    width: 300px;
+}
+    #left-button {
+        width: 330px;
+    }
+
+#important {
+    width: 450px;
+}
+    #right-button {
+        margin-left: -0.5em;
+        width: 480px;
+    }

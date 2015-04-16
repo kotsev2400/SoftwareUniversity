@@ -1,0 +1,6 @@
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\09.NumNNubmers\bin\Debug\09.NumNNubmers.exe.config
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\09.NumNNubmers\bin\Debug\09.NumNNubmers.exe
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\09.NumNNubmers\bin\Debug\09.NumNNubmers.pdb
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\09.NumNNubmers\obj\Debug\09.NumNNubmers.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\09.NumNNubmers\obj\Debug\09.NumNNubmers.exe
+D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\09.NumNNubmers\obj\Debug\09.NumNNubmers.pdb
