@@ -1,6 +1,0 @@
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe.config
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\05.ThirdDigit\bin\Debug\05.ThirdDigit.exe
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\05.ThirdDigit\bin\Debug\05.ThirdDigit.pdb
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\05.ThirdDigit\obj\Debug\05.ThirdDigit.csprojResolveAssemblyReference.cache
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\05.ThirdDigit\obj\Debug\05.ThirdDigit.exe
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\05.ThirdDigit\obj\Debug\05.ThirdDigit.pdb

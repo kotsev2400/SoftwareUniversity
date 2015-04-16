@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\08.DigitAsWord\bin\Debug\08.DigitAsWord.pdb
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.exe
-D:\Programming\Projects\Visual Studio\05.Conditional-Statements\08.DigitAsWord\obj\Debug\08.DigitAsWord.pdb

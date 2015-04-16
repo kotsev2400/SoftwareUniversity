@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\06.Loops\06.CalculateNandX\bin\Debug\06.CalculateNandX.exe.config
-D:\Programming\Projects\Visual Studio\06.Loops\06.CalculateNandX\bin\Debug\06.CalculateNandX.exe
-D:\Programming\Projects\Visual Studio\06.Loops\06.CalculateNandX\bin\Debug\06.CalculateNandX.pdb
-D:\Programming\Projects\Visual Studio\06.Loops\06.CalculateNandX\obj\Debug\06.CalculateNandX.exe
-D:\Programming\Projects\Visual Studio\06.Loops\06.CalculateNandX\obj\Debug\06.CalculateNandX.pdb

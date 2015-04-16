@@ -1,6 +1,0 @@
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\09.AgeAfter10\bin\Debug\09.AgeAfter10.exe.config
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\09.AgeAfter10\bin\Debug\09.AgeAfter10.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\09.AgeAfter10\bin\Debug\09.AgeAfter10.pdb
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\09.AgeAfter10\obj\Debug\09.AgeAfter10.csprojResolveAssemblyReference.cache
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\09.AgeAfter10\obj\Debug\09.AgeAfter10.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\09.AgeAfter10\obj\Debug\09.AgeAfter10.pdb

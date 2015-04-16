@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\12.BitFromIntiger\bin\Debug\12.BitFromIntiger.exe.config
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\12.BitFromIntiger\bin\Debug\12.BitFromIntiger.exe
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\12.BitFromIntiger\bin\Debug\12.BitFromIntiger.pdb
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\12.BitFromIntiger\obj\Debug\12.BitFromIntiger.exe
-D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\12.BitFromIntiger\obj\Debug\12.BitFromIntiger.pdb

@@ -1,6 +1,0 @@
-D:\Programming\Projects\Visual Studio\06.Loops\03.MinMaxSum\bin\Debug\03.MinMaxSum.exe.config
-D:\Programming\Projects\Visual Studio\06.Loops\03.MinMaxSum\bin\Debug\03.MinMaxSum.exe
-D:\Programming\Projects\Visual Studio\06.Loops\03.MinMaxSum\bin\Debug\03.MinMaxSum.pdb
-D:\Programming\Projects\Visual Studio\06.Loops\03.MinMaxSum\obj\Debug\03.MinMaxSum.csprojResolveAssemblyReference.cache
-D:\Programming\Projects\Visual Studio\06.Loops\03.MinMaxSum\obj\Debug\03.MinMaxSum.exe
-D:\Programming\Projects\Visual Studio\06.Loops\03.MinMaxSum\obj\Debug\03.MinMaxSum.pdb

@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\03.CircleArea\bin\Debug\03.CircleArea.exe.config
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\03.CircleArea\bin\Debug\03.CircleArea.exe
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\03.CircleArea\bin\Debug\03.CircleArea.pdb
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\03.CircleArea\obj\Debug\03.CircleArea.exe
-D:\Programming\Projects\Visual Studio\04.Console-Input-Output-Homework\03.CircleArea\obj\Debug\03.CircleArea.pdb

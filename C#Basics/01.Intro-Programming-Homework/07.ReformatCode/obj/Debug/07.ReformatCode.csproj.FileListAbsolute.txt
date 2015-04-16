@@ -1,5 +1,0 @@
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\07.ReformatCode\bin\Debug\07.ReformatCode.exe.config
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\07.ReformatCode\bin\Debug\07.ReformatCode.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\07.ReformatCode\bin\Debug\07.ReformatCode.pdb
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\07.ReformatCode\obj\Debug\07.ReformatCode.exe
-D:\Programming\Projects\Visual Studio\01.Intro-Programming-Homework\07.ReformatCode\obj\Debug\07.ReformatCode.pdb
