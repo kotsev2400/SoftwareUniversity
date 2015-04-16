@@ -1,4 +1,0 @@
-
-cd /Programming/Projects/Eclipse/Homework_01_Intro-Java/bin/
-jar -cf Problem_06_MakeJarFile.jar *
-java -cp Problem_06_MakeJarFile.jar Problem_03_SumTwoNumbers
