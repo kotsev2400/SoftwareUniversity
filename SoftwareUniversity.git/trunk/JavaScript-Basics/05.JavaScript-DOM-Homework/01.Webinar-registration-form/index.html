@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Registration Form</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div id="wrapper">
+		<h2>Регистрация за уебинар</h2>
+		<form methood="POST" action="#">
+			<fieldset>
+				<label>Име и фамилия:<span>*</span></label>
+				<input type="text" name="name">
+			</fieldset>
+			<fieldset>
+				<label>Адрес:</label>
+				<input type="text" name="address">
+			</fieldset>
+			<fieldset>
+				<label>Населено място:</label>
+				<input type="text" name="city">
+			</fieldset>
+			<fieldset>
+				<label>Пощенски код:</label>
+				<input type="text" name="code">
+			</fieldset>
+			<fieldset>
+				<label>Email:<span>*</span></label>
+				<input type="text" name="email">
+			</fieldset>
+			<fieldset>
+				<label>Телефон:<span>*</span></label>
+				<input type="text" name="phone">
+			</fieldset>
+			<fieldset>
+				<label>Дата на семинара:<span>*</span></label>
+				<input type="date" name="date">
+			</fieldset>
+			<fieldset>
+				<input type="checkbox" name="label" onclick="showFields('firm-fields', this)">
+				<label>Желая фактура</label>
+			</fieldset>
+			<div id="outter">
+				<div id="firm-fields">
+					<fieldset>
+						<label>Фирма/Организация:<span>*</span></label>
+						<input type="text" name="firm">
+					</fieldset>
+					<fieldset>
+						<label>МОЛ:<span>*</span></label>
+						<input type="text" name="mol">
+					</fieldset>
+					<fieldset>
+						<label>ЕИК:<span>*</span></label>
+						<input type="text" name="eik">
+					</fieldset>
+					<fieldset>
+						<label>ИН по ДДС:<span>*</span></label>
+						<input type="text" name="dds">
+					</fieldset>
+					<fieldset>
+						<label>Адрес:<span>*</span></label>
+						<input type="text" name="firm-address">
+					</fieldset>
+				</div>
+			</div>
+			<button type="submit" value="submit">Регистрирай се</button>
+			<button type="reset" value="reset">Изчисти</button>
+		</form>
+	</div>
+	<script type="text/javascript">
+		function showFields (div, box) {
+		  var visible;
+		  if (box.checked) {
+		  	visible = "block";
+		  } else {
+		  	visible = "none";
+		  }
+		  document.getElementById(div).style.display = visible;
+		}
+	</script>
+</body>
+</html>

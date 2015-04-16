@@ -1,0 +1,5 @@
+D:\Programming\Projects\Visual Studio\06.Loops\02.NotDivisibleByThreeAndSeven\bin\Debug\02.NotDivisibleByThreeAndSeven.exe.config
+D:\Programming\Projects\Visual Studio\06.Loops\02.NotDivisibleByThreeAndSeven\bin\Debug\02.NotDivisibleByThreeAndSeven.exe
+D:\Programming\Projects\Visual Studio\06.Loops\02.NotDivisibleByThreeAndSeven\bin\Debug\02.NotDivisibleByThreeAndSeven.pdb
+D:\Programming\Projects\Visual Studio\06.Loops\02.NotDivisibleByThreeAndSeven\obj\Debug\02.NotDivisibleByThreeAndSeven.exe
+D:\Programming\Projects\Visual Studio\06.Loops\02.NotDivisibleByThreeAndSeven\obj\Debug\02.NotDivisibleByThreeAndSeven.pdb

@@ -1,0 +1,6 @@
+D:\Programming\Projects\Visual Studio\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe.config
+D:\Programming\Projects\Visual Studio\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.exe
+D:\Programming\Projects\Visual Studio\06.Loops\04.PrintDeckOfCards\bin\Debug\04.PrintDeckOfCards.pdb
+D:\Programming\Projects\Visual Studio\06.Loops\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.exe
+D:\Programming\Projects\Visual Studio\06.Loops\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.pdb
+D:\Programming\Projects\Visual Studio\06.Loops\04.PrintDeckOfCards\obj\Debug\04.PrintDeckOfCards.csprojResolveAssemblyReference.cache

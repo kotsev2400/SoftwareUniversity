@@ -1,0 +1,6 @@
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.pdb
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.exe
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.pdb
+D:\Programming\Projects\Visual Studio\03. Operators-Expressions-and-Statements\08.PrimeNumberCheck\obj\Debug\08.PrimeNumberCheck.csprojResolveAssemblyReference.cache
